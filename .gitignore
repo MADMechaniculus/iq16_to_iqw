@@ -1,0 +1,9 @@
+CMakeFiles
+CMakeCache.txt
+*.user*
+build
+builds
+doc
+docs
+*.o
+*.autosave
